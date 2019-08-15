@@ -1,17 +1,313 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds">
-    <option name="x" value="878" />
-    <option name="y" value="3" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+  <component name="ChangeListManager">
+    <list default="true" id="8358b3fb-3ff8-4cf0-b61f-7da9aa406dfd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/blast1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blast_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bomb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/born1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/born2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/born3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/born4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/camp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/destory.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy1D.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy1L.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy1R.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy1U.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy2D.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy2L.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy2R.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy2U.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy3D.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy3L.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy3R.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy3U.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemymissile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mintank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p1tankD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p1tankL.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p1tankR.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p1tankU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p2tankD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p2tankL.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p2tankR.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p2tankU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/star.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/steel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/steels.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tankmissile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/timer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/walls.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/water.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map/0.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map/1.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map/a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map/a.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/123$main.coverage" NAME="main Coverage Results" MODIFIED="1565873966021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map/a">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/local.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/util/local.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="123" type="b2602c69:ProjectViewProjectNode" />
+              <item name="123" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="123" type="b2602c69:ProjectViewProjectNode" />
+              <item name="123" type="462c0819:PsiDirectoryNode" />
+              <item name="hangzi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="123" type="b2602c69:ProjectViewProjectNode" />
+              <item name="123" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../资料/192.168/坦克大战/code/TankGame/TankGame" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\123" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="123" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8358b3fb-3ff8-4cf0-b61f-7da9aa406dfd" name="Default Changelist" comment="" />
+      <created>1565868218661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565868218661</updated>
+      <workItem from="1565868221493" duration="4049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4049000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2503458" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32937685" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/map/a">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
