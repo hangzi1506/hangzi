@@ -10,9 +10,12 @@ def start():
     #加载大本营
     iconImage=pygame.image.load('./img/camp.gif')
     pygame.display.set_icon(iconImage)
+
+    TankImage=pygame.image.load('./img/p1tankU.gif')
     while True:
         #xianshi
-
+        window.blit(TankImage,(300,300))
+        pygame.display.flip()
         eventList=pygame.event.get()
         for eventEle in eventList:
             if eventEle.type==QUIT:
