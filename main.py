@@ -3,6 +3,10 @@ from pygame.locals import *
 from util.local import*
 import sys
 from  views.Tank import *
+from views.SteelWall import *
+from views.GrassWall import *
+from views.BrickWall import *
+from views.WaterWall import *
 
 def start():
     pygame.init()
@@ -13,11 +17,21 @@ def start():
     pygame.display.set_icon(iconImage)
 
     # TankImage=pygame.image.load('./img/p1tankU.gif')
-    tank=HeroTank(100,100,window)
+    tank=HeroTank(x=100,y=100,window=window)
+    brickWall=BrickWall(x=160,y=160,window=window)
+    grassWall=GrassWall(x=220,y=220,window=window)
+    steelWall = SteelWall(x=280,y= 280,window= window)
+    waterWall = WaterWall(x=340, y=340,window= window)
 
     while True:
         #xianshi
         tank.display()
+        brickWall.display()
+        grassWall.display()
+        steelWall.display()
+        waterWall.display()
+
+
         pygame.display.flip()
 
         # window.blit(TankImage,(300,300))
